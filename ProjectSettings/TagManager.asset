@@ -8,6 +8,11 @@ TagManager:
   - Pared
   - Pera
   - Suelo
+  - Puerta
+  - GusanoActive
+  - Gusano
+  - Portal
+  - Intro_Music
   layers:
   - Default
   - TransparentFX

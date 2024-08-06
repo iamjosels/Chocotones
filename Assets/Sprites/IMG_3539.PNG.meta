@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: a46faa0a263100c49a54b9eaa012234d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Move_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1403
+        width: 246
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce1220a2de1864fac5d822dd6b26b6
+      internalID: -569589619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1402
+        width: 242
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02290d277364e214bb18e279702a6d80
+      internalID: -1943520425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_40
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1396
+        width: 240
+        height: 181
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.12176952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13090b42a1b37fb43920777feb8d4fd3
+      internalID: 701456438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_41
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1400
+        width: 247
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d581fdc021c95c847b446d85424cecad
+      internalID: 98253596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reducir_1
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1398
+        width: 242
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab8f387b3c24714bafd2439208a8e16
+      internalID: -1896721567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chico_Move_1
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1504
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d666ae9823e53c45bfb78e98756d98a
+      internalID: -1755948266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1196
+        width: 247
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f0da0b6b11e024db0340f70803e632
+      internalID: 1302927196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_45
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1198
+        width: 242
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d51e7e048c1d4ab1faddb3ea6f1e4
+      internalID: 121897753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1188
+        width: 236
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.12163832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034f2315e4886bd4cadb55e6b738bfff
+      internalID: -2102251911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_47
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1204
+        width: 252
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d96abb48a23f48aeb82e8615e1aba
+      internalID: -1915844786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chico_Move_2
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1367
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ad5599587985547a6aa59d919ca7ab
+      internalID: -2126114459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reducir_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1198
+        width: 155
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9887af78c20eeb8428681368be683de3
+      internalID: 1724348336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 994
+        width: 243
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4b59a6f6d059d4cacc361bec030fef
+      internalID: -1118495083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_56
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 984
+        width: 260
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f5079f12bf6894698e90f267c565bf
+      internalID: -1121537569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reducir_3
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1055
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9126b1a6cf779f4e876f6f3d095c818
+      internalID: -1322654782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_58
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 805
+        width: 642
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cda08639afe8347832f692d2e56b46
+      internalID: -413140824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_59
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 725
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8cfcd69435f9a488cfbeaae21f373d
+      internalID: -1923759616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_60
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 713
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c487a9e268c88542a8f45acba7e1fdc
+      internalID: 1051563110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manzana_2
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 75
+        width: 734
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef344580a9b08c489987bea2806f332
+      internalID: -513389170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 500
+        width: 196
+        height: 184
+      alignment: 9
+      pivot: {x: 0.692624, y: 0.5844886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d55c81d153936d4bbad86bdf0193e52
+      internalID: 488928692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manzana_
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 69
+        width: 741
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32abd279797c53c40beb425a1339e1cc
+      internalID: 347227025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 314
+        width: 46
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871cdde6a3647a0449c62d278f1fbfb0
+      internalID: 1766433198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_68
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 315
+        width: 47
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7044b68e20316904bb45c08370d0f664
+      internalID: 1547666465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_0
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 499
+        width: 201
+        height: 184
+      alignment: 9
+      pivot: {x: 0.6767833, y: 0.5844883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30956cdc3d4f98a47a5af358af09fd1d
+      internalID: 1386124395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 499
+        width: 169
+        height: 184
+      alignment: 9
+      pivot: {x: 0.63141084, y: 0.5724182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee36919c194cb84195d89b2508c18f0
+      internalID: 875228517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_3539_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 498
+        width: 112
+        height: 184
+      alignment: 9
+      pivot: {x: 0.46314457, y: 0.48168084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a674d8b9753133c4dbca981f69af9ac9
+      internalID: 159844902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chico_Move_1: -1755948266
+      Chico_Move_2: -2126114459
+      Gusano_1: -1615128095
+      Gusano_2: -1548690244
+      Gusano_3: 1239999533
+      Gusano_4: 488928692
+      IMG_3539_0: 1386124395
+      IMG_3539_1: 875228517
+      IMG_3539_10: -102404012
+      IMG_3539_11: -1759250881
+      IMG_3539_12: 93819394
+      IMG_3539_13: -983954538
+      IMG_3539_14: 1368048621
+      IMG_3539_15: -899787273
+      IMG_3539_16: -347340119
+      IMG_3539_17: 1709471564
+      IMG_3539_18: 1176421023
+      IMG_3539_19: -530045718
+      IMG_3539_2: 159844902
+      IMG_3539_20: -208011418
+      IMG_3539_21: -716120325
+      IMG_3539_22: 471811146
+      IMG_3539_23: -337228943
+      IMG_3539_24: -1574748701
+      IMG_3539_25: 278916606
+      IMG_3539_26: 373693832
+      IMG_3539_27: 2072853209
+      IMG_3539_28: 674953088
+      IMG_3539_29: -963419823
+      IMG_3539_3: 963033791
+      IMG_3539_30: -469129830
+      IMG_3539_31: -1887410285
+      IMG_3539_32: 2145127299
+      IMG_3539_33: -1048989985
+      IMG_3539_34: 780581490
+      IMG_3539_35: 1021953528
+      IMG_3539_36: 628916950
+      IMG_3539_37: -1532720353
+      IMG_3539_39: -1943520425
+      IMG_3539_4: 728527035
+      IMG_3539_40: 701456438
+      IMG_3539_41: 98253596
+      IMG_3539_45: 121897753
+      IMG_3539_46: -2102251911
+      IMG_3539_47: -1915844786
+      IMG_3539_48: -1300950678
+      IMG_3539_5: -1657644779
+      IMG_3539_51: 1812440433
+      IMG_3539_52: -1939525123
+      IMG_3539_53: -245426017
+      IMG_3539_54: 2090902203
+      IMG_3539_56: -1121537569
+      IMG_3539_58: -413140824
+      IMG_3539_59: -1923759616
+      IMG_3539_6: 1583083593
+      IMG_3539_60: 1051563110
+      IMG_3539_67: 1766433198
+      IMG_3539_68: 1547666465
+      IMG_3539_69: -2013118283
+      IMG_3539_7: -758614397
+      IMG_3539_8: 1283380570
+      IMG_3539_9: -1950557247
+      Manzana_: 347227025
+      Manzana_2: -513389170
+      Move_Normal_1: -569589619
+      Move_Normal_2: 1302927196
+      Move_Normal_3: -1118495083
+      Reducir_1: -1896721567
+      Reducir_2: 1724348336
+      Reducir_3: -1322654782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

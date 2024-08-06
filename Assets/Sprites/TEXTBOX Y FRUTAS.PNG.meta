@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: f027e29e469559a4fb8904f9437ce2f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEXTBOX Y FRUTAS_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 503
+        width: 796
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be7642052408a241b29d4a7128f0515
+      internalID: 357619228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXTBOX Y FRUTAS_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 358
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdbf00f4f602d04794b1c853da49335
+      internalID: -372171953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXTBOX Y FRUTAS_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 359
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb9cd66d5c9c494893e7017ea58bb55
+      internalID: 2028627254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXTBOX Y FRUTAS_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 364
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b00d939e73f864ca7cbdc280c34f24
+      internalID: 381269290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXTBOX Y FRUTAS_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 234
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c38a3599c7c0a44b1f3ff551178056
+      internalID: 1976203468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXTBOX Y FRUTAS_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 240
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d437657b7f3bf1343ad4ef7bcba86693
+      internalID: 242068573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXTBOX Y FRUTAS_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 235
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939fce93cfdd0604da17684c4ea7c1d9
+      internalID: -1862612692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TEXTBOX Y FRUTAS_0: 357619228
+      TEXTBOX Y FRUTAS_1: 1038240446
+      TEXTBOX Y FRUTAS_10: -741231696
+      TEXTBOX Y FRUTAS_11: 2019296552
+      TEXTBOX Y FRUTAS_12: 1972764190
+      TEXTBOX Y FRUTAS_13: 2142382685
+      TEXTBOX Y FRUTAS_14: 1976203468
+      TEXTBOX Y FRUTAS_15: 242068573
+      TEXTBOX Y FRUTAS_16: -708577706
+      TEXTBOX Y FRUTAS_17: 891162836
+      TEXTBOX Y FRUTAS_18: -1175114452
+      TEXTBOX Y FRUTAS_19: 1454059201
+      TEXTBOX Y FRUTAS_2: 202130362
+      TEXTBOX Y FRUTAS_20: -1961244091
+      TEXTBOX Y FRUTAS_21: -1862612692
+      TEXTBOX Y FRUTAS_22: 1772769440
+      TEXTBOX Y FRUTAS_23: 1273222374
+      TEXTBOX Y FRUTAS_24: -1788055055
+      TEXTBOX Y FRUTAS_25: 1291347643
+      TEXTBOX Y FRUTAS_26: 942679420
+      TEXTBOX Y FRUTAS_27: -1209554942
+      TEXTBOX Y FRUTAS_28: 1420019977
+      TEXTBOX Y FRUTAS_29: -1403921610
+      TEXTBOX Y FRUTAS_3: -1340276896
+      TEXTBOX Y FRUTAS_30: -1062566522
+      TEXTBOX Y FRUTAS_31: 846983814
+      TEXTBOX Y FRUTAS_32: 1712294529
+      TEXTBOX Y FRUTAS_33: 1865288048
+      TEXTBOX Y FRUTAS_34: -1262238460
+      TEXTBOX Y FRUTAS_35: 374913706
+      TEXTBOX Y FRUTAS_36: -1341650912
+      TEXTBOX Y FRUTAS_37: 299734235
+      TEXTBOX Y FRUTAS_38: 93629435
+      TEXTBOX Y FRUTAS_39: -137667656
+      TEXTBOX Y FRUTAS_4: 1921638101
+      TEXTBOX Y FRUTAS_5: -372171953
+      TEXTBOX Y FRUTAS_6: 2028627254
+      TEXTBOX Y FRUTAS_7: 381269290
+      TEXTBOX Y FRUTAS_8: -657618835
+      TEXTBOX Y FRUTAS_9: -1651250795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
